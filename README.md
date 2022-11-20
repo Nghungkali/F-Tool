@@ -36,11 +36,8 @@
 
 
 
-# Contact dev
+# Contact me
 * Telegram: ```@nghungkali```
-
-# Donation
-* Contact: ```098836425```
 
 * Copyright by Nguyen Tuan Hung :))
 
